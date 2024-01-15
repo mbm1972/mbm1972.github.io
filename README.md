@@ -1,2 +1,2 @@
-# mbm1972.github.io
-for use with github pages
+# Matthew B. Murrell's Data Science Portfolio
+## Projects and Explorations
